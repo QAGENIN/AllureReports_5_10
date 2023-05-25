@@ -1,1 +1,1 @@
-![Screenshot_1](allure_reports.png)
+![Screenshot_1](https://user-images.githubusercontent.com/104753800/240891138-aaa32cb1-efb4-4b5a-85da-eb6d3f2e6335.png)
